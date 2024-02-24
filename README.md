@@ -4,9 +4,11 @@ Welcome to Condominio Montezuma, a stunning residential development located in t
 
 ## A Glimpse into Condominio Montezuma
 
-![Condominio Montezuma](attachment:image-1.jpg)
+![Condominio Montezuma](attachment:https://fusioninmobiliariacr.com/wp-content/uploads/2023/05/banner_condominio_montezuma.jpg)
 
 Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The condominium features a variety of home styles, each designed to meet the highest standards of quality and aesthetic appeal. Whether you're looking for a cozy home or a more spacious family residence, Condominio Montezuma has something to suit your needs.
+
+![Condominio Montezuma](attachment:https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
 
 ### Key Features
 
@@ -34,6 +36,8 @@ Grecia is renowned for its unique charm and vibrant culture. Living in Condomini
 ## Join Our Community
 
 Become a part of Condominio Montezuma and start your new life in this beautiful Costa Rican paradise. Contact us for more information and to schedule a visit.
+
+@[youtube](http://www.youtube.com/embed/JlGaE02D_3U)
 
 ---
 
