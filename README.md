@@ -41,10 +41,4 @@ Become a part of Condominio Montezuma and start your new life in this beautiful 
 
 ---
 
-For more information, please visit our [website](#) or contact our sales office.
-
-*This is a representative markdown page for Condominio Montezuma based on available online information. Actual details may vary.*
----
-
-Would you like to download this as a markdown file?
-<!--continue-with:welcome.md-->
+For more information, please visit our [website](https://condominio-montezuma.casa.club) or contact our sales office.
