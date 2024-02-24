@@ -8,8 +8,6 @@ Welcome to Condominio Montezuma, a stunning residential development located in t
 
 Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The condominium features a variety of home styles, each designed to meet the highest standards of quality and aesthetic appeal. Whether you're looking for a cozy home or a more spacious family residence, Condominio Montezuma has something to suit your needs.
 
-![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
-
 ### Key Features
 
 - **Location**: Nestled near the Bernardo Soto Highway, our condominium offers easy access to major transportation routes.
@@ -18,7 +16,7 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 
 ## Homes in Condominio Montezuma
 
-![Home in Condominio Montezuma](attachment:image-2.jpg)
+![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
 
 ### Example Listing: Spacious 3-Bedroom Home
 - **Price**: ₡ 109,500,000.00
