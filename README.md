@@ -16,7 +16,7 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 
 ## Homes in Condominio Montezuma
 
-![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
+![House in Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
 
 ### Example Listing: Spacious 3-Bedroom Home
 - **Price**: ₡ 109,500,000.00
