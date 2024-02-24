@@ -16,7 +16,7 @@ Condominio Montezuma ofrece una mezcla de lujo, confort y belleza natural. El co
 
 ## Hogares en Condominio Montezuma
 
-![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
+![Hogar en Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
 
 ### Ejemplo de Propiedad: Amplia Casa de 3 Habitaciones
 - **Precio**: ₡ 109,500,000.00
