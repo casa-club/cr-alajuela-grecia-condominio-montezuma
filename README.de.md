@@ -16,7 +16,7 @@ Condominio Montezuma bietet eine Mischung aus Luxus, Komfort und natürlicher Sc
 
 ## Häuser im Condominio Montezuma
 
-![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
+![Haus im Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
 
 ### Beispielangebot: Geräumiges Haus mit 3 Schlafzimmern
 - **Preis**: ₡ 109,500,000.00
