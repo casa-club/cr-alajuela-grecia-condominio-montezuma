@@ -1,11 +1,11 @@
 # Welcome to Condominio Montezuma, Grecia, Alajuela, Costa Rica
 
 Welcome to Condominio Montezuma, a stunning residential development located in the picturesque city of Grecia, in the province of Alajuela, Costa Rica. Known for its pleasant climate, beautiful landscapes, and friendly community, Grecia is the perfect location for those seeking a peaceful lifestyle with easy access to modern amenities.
-
+<!--begin:hero-->
 ## A Glimpse into Condominio Montezuma
 
 ![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2023/05/banner_condominio_montezuma.jpg)
-
+<!--end:hero-->
 Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The condominium features a variety of home styles, each designed to meet the highest standards of quality and aesthetic appeal. Whether you're looking for a cozy home or a more spacious family residence, Condominio Montezuma has something to suit your needs.
 
 **Website**: [condominio-montezuma.casa.club](http://condominio-montezuma.casa.club)
@@ -27,17 +27,20 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 - **Modern Designs**: Each home boasts contemporary architecture, blending seamlessly with the natural surroundings.
 - **Community Amenities**: Residents enjoy access to a range of amenities including a swimming pool, clubhouse, and green areas.
 
+<!--begin:hero-->
 ## Homes in Condominio Montezuma
 
+![Home in Condominio Montezuma](arq-mod-v-2.jpg)
+<!--end:hero-->
+
+<!--begin:gallery-columns-3-->
 ![Aruitecture in Montezuma](arq-mod-v-1.jpg)
-![Aruitecture in Montezuma](arq-mod-v-2.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-3.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-5.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-7.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-8.jpg)
 ![Aruitecture in Montezuma](arq-st-v-1.jpg)
-
-![Home in Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
+<!--end:gallery-columns-3-->
 
 ### Example Listing: Spacious 3-Bedroom Home
 - **Price**: ₡ 109,500,000.00
@@ -52,28 +55,98 @@ Grecia is renowned for its unique charm and vibrant culture. Living in Condomini
 - **Community**: Grecia is known for its friendly locals and expat community.
 - **Accessibility**: Proximity to San José, Costa Rica's capital, provides access to top-notch healthcare, shopping, and entertainment.
 
+<!--begin:hero-->
+### Sports and Fitness: Energize Your Lifestyle
+
+![Sports in Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2019/11/banner_montezuma2.jpg)
+<!--end:hero-->
+
+Condominio Montezuma is not just a place to live; it's a community that promotes an active and healthy lifestyle. Our comprehensive sports facilities cater to a wide range of interests and fitness levels, ensuring there's something for everyone.
+
+#### State-of-the-Art Gym
+
+<!--begin:gallery-->
+![State-of-the-Art Gym](sport-swim-v-2.jpg)
+![State-of-the-Art Gym](sport-swim-v-1.jpg)
+![State-of-the-Art Gym](sport-gym-v-2.jpg)
+![State-of-the-Art Gym](sport-cardio-h-1.jpg)
+<!--end:gallery-->
+
+ - **Semi-Olympic Pool**: Ideal for both competitive swimmers and casual bathers, our pool provides ample space for lap swimming and water-based workouts. The pool includes marked lanes for serious swimmers to track their laps and for training sessions.
+- **Weight Training Area**: Equipped with a variety of free weights and machines, perfect for strength training and muscle building.
+- **Cardio Zone**: Featuring treadmills, stationary bicycles, and orbitrek machines, ideal for cardiovascular health.
+- **Yoga and Stretching Space**: A tranquil area designated for yoga and stretching exercises, helping you maintain flexibility and balance.
+
+#### Racquet Sports
+
+<!--begin:gallery-->
+![Racquet Sports](sport-mix-h-1.jpg)
+![Racquet Sports](sport-squash-h-4.jpg)
+![Racquet Sports](sport-squash-v-4.jpg)
+<!--end:gallery-->
+
+- **Squash Courts**: Two high-quality squash courts for an intense, fast-paced workout.
+- **Tennis Courts**: Two well-maintained tennis courts, perfect for casual plays or competitive matches.
+
+#### Team Sports Facilities
+
+<!--begin:gallery-->
+![Team Sports Facilities](arq-st-h-4.jpg)
+![Team Sports Facilities](sport-basq-v-1.jpg)
+![Team Sports Facilities](sport-soccer-h-2.jpg)
+![Team Sports Facilities](sport-soccer-h-4.jpg)
+![Team Sports Facilities](sport-soccer-h-5.jpg)
+![Team Sports Facilities](sport-ranch-h-2.jpg)
+<!--end:gallery-->
+
+- **Basketball Courts**: Two full-sized basketball courts for team games or individual practice.
+- **Beach Volleyball Court**: Experience the fun of beach volleyball right in your backyard.
+- **Football 5 Field**: A compact football pitch designed for 5-a-side games, offering a fast and exciting version of the sport.
+
+#### Outdoor Fitness
+
+<!--begin:gallery-->
+![Outdoor Fitness](sport-other-h-3.jpg)
+![Outdoor Fitness](sport-other-h-2.jpg)
+![Outdoor Fitness](sport-other-h-1.jpg)
+![Outdoor Fitness](trail-1-v-1.jpg)
+![Outdoor Fitness](trail-1-v-4.jpg)
+![Outdoor Fitness](trail-2-h-8.jpg)
+<!--end:gallery-->
+
+- **Open-Air Free-Weight Machines**: Strategically placed in the open air for those who prefer to train amidst nature.
+- **Walking Trails**: Surrounding the condominium, these trails are perfect for a peaceful walk, jog, or run, offering scenic views and a chance to connect with nature.
+
+### A Community Focused on Well-being
+
+At Condominio Montezuma, we believe in fostering a community that values health and fitness. Our sports facilities are more than just amenities; they are a foundation for a vibrant, active, and connected community. Whether you're a fitness enthusiast or just enjoy a casual game with friends, our sports complex offers an unmatched experience.
+
+*Note: All facilities are maintained according to the highest standards to ensure safety and quality experiences for all residents.*
+
 ## Verdant Splendor: Vegetation Around Condominio Montezuma
 
 Surrounded by the lush greenery of tropical jungles and the thriving fields of coffee and sugar cane, Condominio Montezuma is a haven for nature lovers and those who appreciate the beauty of Costa Rica's diverse flora.
 
 ### Tropical Jungle
 
+<!--begin:gallery-zoom-->
 ![Tropical Jungle](veg-7-h-4.jpg)
 ![Tropical Jungle](veg-7-v-9.jpg)
 ![Tropical Jungle](veg-4-h-1.jpg)
 ![Tropical Jungle](veg-3-v-10.jpg)
 ![Tropical Jungle](veg-3-h-9.jpg)
+<!--end:gallery-zoom-->
 
 The tropical jungle that encircles the area is a vibrant ecosystem teeming with life. This dense vegetation is characterized by:
 
 - **Tall Trees**: Towering over the landscape, these trees form a canopy that shelters an array of wildlife.
 - **Understory Layer**: Filled with shrubs, small trees, and plants like ferns and orchids, this layer thrives in the dappled sunlight.
 - **Rich Biodiversity**: Home to a plethora of birds, insects, and small mammals, the jungle is a symphony of nature's sounds.
-
+<!--begin:hero-->
 ### Coffee Plantations
 
 ![Coofee PLantations](veg-7-h-5.jpg)
-
+<!--end:hero-->
 Coffee, one of Costa Rica's prime exports, grows abundantly in the region. The plantations are a sight to behold with their:
 
 - **Verdant Coffee Bushes**: Neat rows of coffee plants, laden with red and green cherries, are a testament to the region's fertile soil.
@@ -99,6 +172,7 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 - **Agricultural Tours**: Learn about coffee and sugar cane production, right from the source.
 - **Tranquil Living**: The perfect blend of rural charm and modern amenities.
 
+<!--begin:gallery-columns-4-->
 ![A Green Retreat](veg-7-h-4.jpg)
 ![A Green Retreat](casa-2-h-1.jpg)
 ![A Green Retreat](casa-1-h-3.jpg)
@@ -108,6 +182,7 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 ![A Green Retreat](veg-1-h-2.jpg)
 ![A Green Retreat](veg-7-h-7.jpg)
 ![A Green Retreat](veg-1-camping-h-1.jpg)
+<!--end:gallery-columns-4-->
 
 This lush, green environment not only provides a serene living space but also contributes to the health and well-being of the community, making Condominio Montezuma a true paradise.
 
@@ -147,6 +222,8 @@ Become a part of Condominio Montezuma and start your new life in this beautiful 
 
 @[youtube](http://www.youtube.com/embed/JlGaE02D_3U)
 
+<!--begin:bezier-curve-->
 ---
+<!--end:bezier-curve-->
 
 For more information, please visit our [website](https://condominio-montezuma.casa.club) or contact our sales office.
