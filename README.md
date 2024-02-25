@@ -173,7 +173,6 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 - **Tranquil Living**: The perfect blend of rural charm and modern amenities.
 
 <!--begin:gallery-columns-4-->
-![A Green Retreat](veg-7-h-4.jpg)
 ![A Green Retreat](casa-2-h-1.jpg)
 ![A Green Retreat](casa-1-h-3.jpg)
 ![A Green Retreat](com-safe-lighting-v-1.jpg)
