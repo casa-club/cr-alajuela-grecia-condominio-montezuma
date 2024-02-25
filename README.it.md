@@ -38,9 +38,3 @@ Diventate parte di Condominio Montezuma e iniziate la vostra nuova vita in quest
 ---
 
 Per ulteriori informazioni, visitate il nostro [sito web](#) o contattate il nostro ufficio vendite.
-
-*Questa è una pagina markdown rappresentativa per Condominio Montezuma basata su informazioni online disponibili. I dettagli reali possono variare.*
-
----
-
-Desiderate scaricare questo in formato markdown?
