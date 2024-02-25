@@ -8,6 +8,19 @@ Welcome to Condominio Montezuma, a stunning residential development located in t
 
 Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The condominium features a variety of home styles, each designed to meet the highest standards of quality and aesthetic appeal. Whether you're looking for a cozy home or a more spacious family residence, Condominio Montezuma has something to suit your needs.
 
+**Website**: [condominio-montezuma.casa.club](http://condominio-montezuma.casa.club)
+
+**Definition**: 
+> Condominio Montezuma is a premium residential complex located in Grecia, Alajuela, Costa Rica. Renowned for its scenic beauty and peaceful living environment, it offers a blend of modern living and natural charm. The complex features various types of housing options, each designed to meet high standards of quality and aesthetics. Key amenities include a swimming pool, clubhouse, and landscaped green spaces, making it an ideal choice for those seeking a serene yet convenient lifestyle.
+
+**Location**: 
+> Situated in the picturesque town of Grecia, in the province of Alajuela, Condominio Montezuma provides easy access to local attractions and essential amenities. Its proximity to major highways facilitates convenient travel to and from the complex.
+
+**Highlights**: 
+- Modern and stylish housing designs
+- Range of community facilities including a pool and clubhouse
+- Ideal climate and friendly community atmosphere
+
 ### Key Features
 
 - **Location**: Nestled near the Bernardo Soto Highway, our condominium offers easy access to major transportation routes.
