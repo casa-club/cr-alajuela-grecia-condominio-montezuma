@@ -1,0 +1,14 @@
+# Set all text files to use LF line endings
+* text=auto
+
+# To make Git treat files as case-sensitive
+* -text
+
+# Set specific file types to use LF line endings (e.g., for JavaScript and Markdown files)
+*.js text
+*.md text
+*.ts text
+*.cjs text
+*.jsx text
+*.mdx text
+*.tsx text
