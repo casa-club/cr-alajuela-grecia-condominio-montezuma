@@ -142,7 +142,6 @@ The tropical jungle that encircles the area is a vibrant ecosystem teeming with 
 - **Rich Biodiversity**: Home to a plethora of birds, insects, and small mammals, the jungle is a symphony of nature's sounds.
 <!--begin:hero-->
 ### Coffee Plantations
-
 ![Coofee PLantations](veg-7-h-5.jpg)
 <!--end:hero-->
 Coffee, one of Costa Rica's prime exports, grows abundantly in the region. The plantations are a sight to behold with their:
