@@ -33,14 +33,14 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 ![Home in Condominio Montezuma](arq-mod-v-2.jpg)
 <!--end:hero-->
 
-<!--begin:gallery-columns-3-->
+<!--begin:gallery+columns-columns+3-->
 ![Aruitecture in Montezuma](arq-mod-v-1.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-3.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-5.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-7.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-8.jpg)
 ![Aruitecture in Montezuma](arq-st-v-1.jpg)
-<!--end:gallery-columns-3-->
+<!--end:gallery+columns-columns+3-->
 
 ### Example Listing: Spacious 3-Bedroom Home
 - **Price**: ₡ 109,500,000.00
@@ -129,13 +129,13 @@ Surrounded by the lush greenery of tropical jungles and the thriving fields of c
 
 ### Tropical Jungle
 
-<!--begin:gallery-zoom-->
+<!--begin:gallery+zoom-->
 ![Tropical Jungle](veg-7-h-4.jpg)
 ![Tropical Jungle](veg-7-v-9.jpg)
 ![Tropical Jungle](veg-4-h-1.jpg)
 ![Tropical Jungle](veg-3-v-10.jpg)
 ![Tropical Jungle](veg-3-h-9.jpg)
-<!--end:gallery-zoom-->
+<!--end:gallery+zoom-->
 
 The tropical jungle that encircles the area is a vibrant ecosystem teeming with life. This dense vegetation is characterized by:
 
@@ -172,7 +172,7 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 - **Agricultural Tours**: Learn about coffee and sugar cane production, right from the source.
 - **Tranquil Living**: The perfect blend of rural charm and modern amenities.
 
-<!--begin:gallery-columns-4-->
+<!--begin:gallery+columns-columns:4-->
 ![A Green Retreat](casa-2-h-1.jpg)
 ![A Green Retreat](casa-1-h-3.jpg)
 ![A Green Retreat](com-safe-lighting-v-1.jpg)
@@ -181,7 +181,7 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 ![A Green Retreat](veg-1-h-2.jpg)
 ![A Green Retreat](veg-7-h-7.jpg)
 ![A Green Retreat](veg-1-camping-h-1.jpg)
-<!--end:gallery-columns-4-->
+<!--end:gallery+columns-->
 
 This lush, green environment not only provides a serene living space but also contributes to the health and well-being of the community, making Condominio Montezuma a true paradise.
 
@@ -221,8 +221,9 @@ Become a part of Condominio Montezuma and start your new life in this beautiful 
 
 @[youtube](http://www.youtube.com/embed/JlGaE02D_3U)
 
-<!--begin:bezier-curve-->
+<!--begin:bezier+curve-->
 ---
-<!--end:bezier-curve-->
+<!--end:bezier+curve-->
 
 For more information, please visit our [website](https://condominio-montezuma.casa.club) or contact our sales office.
+<!--continue-with:README.es.md-->
