@@ -153,11 +153,12 @@ Coffee, one of Costa Rica's prime exports, grows abundantly in the region. The p
 <!--begin:gallery+zoom-->
 ![Sugar Cane Fields](horiz-1.jpg)
 ![Sugar Cane Fields](veg-7-h-1.jpg)
-![Tropical Jungle](veg-4-h-1.jpg)
+![Sugar Cane Fields](veg-7-h-2.jpg)
+![Sugar Cane Fields](trail-1-v-11.jpg)
 ![Sugar Cane Fields](veg-7-h-3.jpg)
 ![Sugar Cane Fields](veg-7-h-4.jpg)
-![Sugar Cane Fields](horiz-1.jpg)
-![Tropical Jungle](veg-4-h-1.jpg)
+![Sugar Cane Fields](trail-2-h-1.jpg)
+
 <!--end:gallery+zoom-->
 Sugar cane is another vital crop in the area, contributing to both the local economy and the landscape's charm. The fields feature:
 
