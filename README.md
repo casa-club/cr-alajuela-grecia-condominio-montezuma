@@ -153,6 +153,7 @@ Coffee, one of Costa Rica's prime exports, grows abundantly in the region. The p
 <!--begin:gallery+zoom-->
 ![Sugar Cane Fields](horiz-1.jpg)
 ![Sugar Cane Fields](veg-7-h-1.jpg)
+![Tropical Jungle](veg-4-h-1.jpg)
 ![Sugar Cane Fields](veg-7-h-3.jpg)
 ![Sugar Cane Fields](veg-7-h-4.jpg)
 <!--end:gallery+zoom-->
