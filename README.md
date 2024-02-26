@@ -33,14 +33,14 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 ![Home in Condominio Montezuma](arq-mod-v-2.jpg)
 <!--end:hero-->
 
-<!--begin:gallery+columns-columns+3-->
+<!--begin:gallery+zoom-->
 ![Aruitecture in Montezuma](arq-mod-v-1.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-3.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-5.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-7.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-8.jpg)
 ![Aruitecture in Montezuma](arq-st-v-1.jpg)
-<!--end:gallery+columns-columns+3-->
+<!--end:gallery+zoom-->
 
 ### Example Listing: Spacious 3-Bedroom Home
 - **Price**: ₡ 109,500,000.00
@@ -65,12 +65,12 @@ Condominio Montezuma is not just a place to live; it's a community that promotes
 
 #### State-of-the-Art Gym
 
-<!--begin:gallery-->
+<!--begin:gallery+zoom-->
 ![State-of-the-Art Gym](sport-swim-v-2.jpg)
 ![State-of-the-Art Gym](sport-swim-v-1.jpg)
 ![State-of-the-Art Gym](sport-gym-v-2.jpg)
 ![State-of-the-Art Gym](sport-cardio-h-1.jpg)
-<!--end:gallery-->
+<!--end:gallery+zoom-->
 
  - **Semi-Olympic Pool**: Ideal for both competitive swimmers and casual bathers, our pool provides ample space for lap swimming and water-based workouts. The pool includes marked lanes for serious swimmers to track their laps and for training sessions.
 - **Weight Training Area**: Equipped with a variety of free weights and machines, perfect for strength training and muscle building.
@@ -90,14 +90,14 @@ Condominio Montezuma is not just a place to live; it's a community that promotes
 
 #### Team Sports Facilities
 
-<!--begin:gallery-->
+<!--begin:gallery+zoom-->
 ![Team Sports Facilities](arq-st-h-4.jpg)
 ![Team Sports Facilities](sport-basq-v-1.jpg)
 ![Team Sports Facilities](sport-soccer-h-2.jpg)
 ![Team Sports Facilities](sport-soccer-h-4.jpg)
 ![Team Sports Facilities](sport-soccer-h-5.jpg)
 ![Team Sports Facilities](sport-ranch-h-2.jpg)
-<!--end:gallery-->
+<!--end:gallery+zoom-->
 
 - **Basketball Courts**: Two full-sized basketball courts for team games or individual practice.
 - **Beach Volleyball Court**: Experience the fun of beach volleyball right in your backyard.
@@ -105,14 +105,14 @@ Condominio Montezuma is not just a place to live; it's a community that promotes
 
 #### Outdoor Fitness
 
-<!--begin:gallery-->
+<!--begin:gallery+zoom-->
 ![Outdoor Fitness](sport-other-h-3.jpg)
 ![Outdoor Fitness](sport-other-h-2.jpg)
 ![Outdoor Fitness](sport-other-h-1.jpg)
 ![Outdoor Fitness](trail-1-v-1.jpg)
 ![Outdoor Fitness](trail-1-v-4.jpg)
 ![Outdoor Fitness](trail-2-h-8.jpg)
-<!--end:gallery-->
+<!--end:gallery+zoom-->
 
 - **Open-Air Free-Weight Machines**: Strategically placed in the open air for those who prefer to train amidst nature.
 - **Walking Trails**: Surrounding the condominium, these trails are perfect for a peaceful walk, jog, or run, offering scenic views and a chance to connect with nature.
