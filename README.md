@@ -170,7 +170,7 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 - **Agricultural Tours**: Learn about coffee and sugar cane production, right from the source.
 - **Tranquil Living**: The perfect blend of rural charm and modern amenities.
 
-<!--begin:gallery+columns-columns:4-->
+<!--begin:gallery+zoom-->
 ![A Green Retreat](casa-2-h-1.jpg)
 ![A Green Retreat](casa-1-h-3.jpg)
 ![A Green Retreat](com-safe-lighting-v-1.jpg)
@@ -179,7 +179,7 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 ![A Green Retreat](veg-1-h-2.jpg)
 ![A Green Retreat](veg-7-h-7.jpg)
 ![A Green Retreat](veg-1-camping-h-1.jpg)
-<!--end:gallery+columns-->
+<!--end:gallery+zoom-->
 
 This lush, green environment not only provides a serene living space but also contributes to the health and well-being of the community, making Condominio Montezuma a true paradise.
 
