@@ -128,7 +128,6 @@ At Condominio Montezuma, we believe in fostering a community that values health 
 Surrounded by the lush greenery of tropical jungles and the thriving fields of coffee and sugar cane, Condominio Montezuma is a haven for nature lovers and those who appreciate the beauty of Costa Rica's diverse flora.
 
 ### Tropical Jungle
-
 <!--begin:gallery+zoom-->
 ![Tropical Jungle](veg-7-h-4.jpg)
 ![Tropical Jungle](veg-7-v-9.jpg)
@@ -136,7 +135,6 @@ Surrounded by the lush greenery of tropical jungles and the thriving fields of c
 ![Tropical Jungle](veg-3-v-10.jpg)
 ![Tropical Jungle](veg-3-h-9.jpg)
 <!--end:gallery+zoom-->
-
 The tropical jungle that encircles the area is a vibrant ecosystem teeming with life. This dense vegetation is characterized by:
 
 - **Tall Trees**: Towering over the landscape, these trees form a canopy that shelters an array of wildlife.
@@ -153,12 +151,12 @@ Coffee, one of Costa Rica's prime exports, grows abundantly in the region. The p
 - **Harvest Season**: A bustling time of year when the air is filled with the aroma of fresh coffee beans.
 
 ### Sugar Cane Fields
-
+<!--begin:gallery+zoom-->
 ![Sugar Cane Fields](horiz-1.jpg)
 ![Sugar Cane Fields](veg-7-h-1.jpg)
 ![Sugar Cane Fields](veg-7-h-3.jpg)
 ![Sugar Cane Fields](veg-7-h-4.jpg)
-
+<!--end:gallery+zoom-->
 Sugar cane is another vital crop in the area, contributing to both the local economy and the landscape's charm. The fields feature:
 
 - **Tall Stalks of Sugar Cane**: These swaying green stalks paint a picturesque rural scene.
