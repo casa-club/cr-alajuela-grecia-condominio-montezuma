@@ -156,14 +156,18 @@ Coffee, one of Costa Rica's prime exports, grows abundantly in the region. The p
 ![Tropical Jungle](veg-4-h-1.jpg)
 ![Sugar Cane Fields](veg-7-h-3.jpg)
 ![Sugar Cane Fields](veg-7-h-4.jpg)
+![Sugar Cane Fields](horiz-1.jpg)
+![Tropical Jungle](veg-4-h-1.jpg)
 <!--end:gallery+zoom-->
 Sugar cane is another vital crop in the area, contributing to both the local economy and the landscape's charm. The fields feature:
 
 - **Tall Stalks of Sugar Cane**: These swaying green stalks paint a picturesque rural scene.
 - **Traditional Harvesting Techniques**: Witness the age-old methods of harvesting and processing sugar cane.
 
+<!--begin:hero-->
 ### A Green Retreat
-
+![A Green Retreat](veg-1-camping-h-1.jpg)
+<!--end:hero-->
 Condominio Montezuma, set against this backdrop of natural beauty and agricultural prosperity, offers a unique opportunity to experience life in harmony with nature. Residents and visitors alike can enjoy:
 
 - **Nature Walks & Bird Watching**: Explore the trails and discover the rich birdlife.
@@ -178,7 +182,6 @@ Condominio Montezuma, set against this backdrop of natural beauty and agricultur
 ![A Green Retreat](veg-1-v-5.jpg)
 ![A Green Retreat](veg-1-h-2.jpg)
 ![A Green Retreat](veg-7-h-7.jpg)
-![A Green Retreat](veg-1-camping-h-1.jpg)
 <!--end:gallery+zoom-->
 
 This lush, green environment not only provides a serene living space but also contributes to the health and well-being of the community, making Condominio Montezuma a true paradise.
