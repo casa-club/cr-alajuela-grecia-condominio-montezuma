@@ -9,10 +9,17 @@ Welcome to Condominio Montezuma, a stunning residential development located in t
 <!--end:text-block+rush-->
 
 <!--begin:gallery+index-->
-[![ Homes in Condominio Montezuma](arq-mod-v-2.jpg)](# Homes in Condominio Montezuma)
-[![A Green Retreat](veg-1-camping-h-1.jpg)](#A Green Retreat)
-[![State-of-the-Art Gym](sport-swim-v-2.jpg)](#State-of-the-Art Gym)
-[![Tropical Jungle](veg-7-h-4.jpg)](#Tropical Jungle)
+![Homes in Condominio Montezuma](arq-mod-v-2.jpg)
+[Homes in Condominio Montezuma](# Homes in Condominio Montezuma)
+
+![A Green Retreat](veg-1-camping-h-1.jpg)
+[A Green Retreat](#A Green Retreat)
+
+[State-of-the-Art Gym](sport-swim-v-2.jpg)
+[!State-of-the-Art Gym](#State-of-the-Art Gym)
+
+![Tropical Jungle](veg-7-h-4.jpg)
+[Tropical Jungle](#Tropical Jungle)
 <!--end:gallery+index-->
 
 <!--begin:hero-->
