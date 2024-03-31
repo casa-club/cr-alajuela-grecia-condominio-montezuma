@@ -1,29 +1,4 @@
-<!--begin:hero+home-->
-# Montezuma
-![Casa Club](casa-2-h-1.jpg)
-![Ranchos](veg-1-v-5.jpg)
-<!--begin:hero+home-->
 
-<!--begin:text+block+rush-->
-## Welcome to Condominio Montezuma,
-## a stunning residential development
-## located in the picturesque city of Grecia,
-## in the province of Alajuela, Costa Rica.
-<!--end:text+block+rush-->
-
-<!--begin:gallery+index-->
-![Homes in Condominio Montezuma](arq-mod-v-2.jpg)
-[Homes in Condominio Montezuma](#homes-in-condominio-montezuma)
-
-![A Green Retreat](veg-1-camping-h-1.jpg)
-[A Green Retreat](#a-green-retreat)
-
-![State-of-the-Art Gym](sport-swim-v-2.jpg)
-[State-of-the-Art Gym](#state-of-the-art-gym)
-
-![Tropical Jungle](veg-7-h-4.jpg)
-[Tropical Jungle](#tropical-jungle)
-<!--end:gallery+index-->
 
 <!--begin:hero-->
 ## A Glimpse into Condominio Montezuma
