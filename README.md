@@ -11,6 +11,20 @@
 ## in the province of Alajuela, Costa Rica.
 <!--end:text+block+rush-->
 
+<!--begin:gallery+index-->
+![Homes in Condominio Montezuma](arq-mod-v-2.jpg)
+[Homes in Condominio Montezuma](#homes)
+
+![A Green Retreat](veg-1-camping-h-1.jpg)
+[A Green Retreat](#agreen-retreat)
+
+![State-of-the-Art Gym](sport-swim-v-2.jpg)
+[State-of-the-Art Gym](#gym)
+
+![Tropical Jungle](veg-7-h-4.jpg)
+[Tropical Jungle](#tropical-jungle)
+<!--end:gallery+index-->
+
 <!--begin:hero-->
 ## A Glimpse into Condominio Montezuma
 
@@ -41,7 +55,7 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 - **Community Amenities**: Residents enjoy access to a range of amenities including a swimming pool, clubhouse, and green areas.
 
 <!--begin:hero+marquee-->
-## Homes in Condominio Montezuma
+## Homes in Condominio Montezuma {#homes}
 
 ![Home in Condominio Montezuma](arq-mod-v-2.jpg)
 <!--end:hero+marquee-->
@@ -76,7 +90,7 @@ Grecia is renowned for its unique charm and vibrant culture. Living in Condomini
 
 Condominio Montezuma is not just a place to live; it's a community that promotes an active and healthy lifestyle. Our comprehensive sports facilities cater to a wide range of interests and fitness levels, ensuring there's something for everyone.
 
-#### State-of-the-Art Gym
+#### State-of-the-Art Gym {#gym}
 
 <!--begin:gallery+zoom-->
 ![State-of-the-Art Gym](sport-swim-v-2.jpg)
@@ -101,7 +115,7 @@ Condominio Montezuma is not just a place to live; it's a community that promotes
 - **Squash Courts**: Two high-quality squash courts for an intense, fast-paced workout.
 - **Tennis Courts**: Two well-maintained tennis courts, perfect for casual plays or competitive matches.
 
-#### Team Sports Facilities
+#### Team Sports Facilities {#team-sports}
 
 <!--begin:gallery+zoom-->
 ![Team Sports Facilities](arq-st-h-4.jpg)
@@ -116,7 +130,7 @@ Condominio Montezuma is not just a place to live; it's a community that promotes
 - **Beach Volleyball Court**: Experience the fun of beach volleyball right in your backyard.
 - **Football 5 Field**: A compact football pitch designed for 5-a-side games, offering a fast and exciting version of the sport.
 
-#### Outdoor Fitness
+#### Outdoor Fitness {#outdoor-fitness}
 
 <!--begin:gallery+zoom-->
 ![Outdoor Fitness](sport-other-h-3.jpg)
@@ -130,17 +144,17 @@ Condominio Montezuma is not just a place to live; it's a community that promotes
 - **Open-Air Free-Weight Machines**: Strategically placed in the open air for those who prefer to train amidst nature.
 - **Walking Trails**: Surrounding the condominium, these trails are perfect for a peaceful walk, jog, or run, offering scenic views and a chance to connect with nature.
 
-### A Community Focused on Well-being
+### A Community Focused on Well-being {#well-being}
 
 At Condominio Montezuma, we believe in fostering a community that values health and fitness. Our sports facilities are more than just amenities; they are a foundation for a vibrant, active, and connected community. Whether you're a fitness enthusiast or just enjoy a casual game with friends, our sports complex offers an unmatched experience.
 
 *Note: All facilities are maintained according to the highest standards to ensure safety and quality experiences for all residents.*
 
-## Verdant Splendor: Vegetation Around Condominio Montezuma
+## Verdant Splendor: Vegetation Around Condominio Montezuma {#verdant-splendor}
 
 Surrounded by the lush greenery of tropical jungles and the thriving fields of coffee and sugar cane, Condominio Montezuma is a haven for nature lovers and those who appreciate the beauty of Costa Rica's diverse flora.
 
-### Tropical Jungle
+### Tropical Jungle {#tropical-jungle}
 <!--begin:gallery+zoom-->
 ![Tropical Jungle](veg-7-h-4.jpg)
 ![Tropical Jungle](veg-7-v-9.jpg)
@@ -162,7 +176,7 @@ Coffee, one of Costa Rica's prime exports, grows abundantly in the region. The p
 - **Verdant Coffee Bushes**: Neat rows of coffee plants, laden with red and green cherries, are a testament to the region's fertile soil.
 - **Harvest Season**: A bustling time of year when the air is filled with the aroma of fresh coffee beans.
 
-### Sugar Cane Fields
+### Sugar Cane Fields {#sugar-cane}
 <!--begin:gallery+zoom-->
 ![Sugar Cane Fields](horiz-1.jpg)
 ![Sugar Cane Fields](veg-7-h-1.jpg)
@@ -179,7 +193,7 @@ Sugar cane is another vital crop in the area, contributing to both the local eco
 - **Traditional Harvesting Techniques**: Witness the age-old methods of harvesting and processing sugar cane.
 
 <!--begin:hero-->
-### A Green Retreat
+### A Green Retreat {#green-retreat}
 ![A Green Retreat](veg-1-camping-h-1.jpg)
 <!--end:hero-->
 Condominio Montezuma, set against this backdrop of natural beauty and agricultural prosperity, offers a unique opportunity to experience life in harmony with nature. Residents and visitors alike can enjoy:
