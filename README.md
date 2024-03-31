@@ -27,11 +27,11 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 - **Modern Designs**: Each home boasts contemporary architecture, blending seamlessly with the natural surroundings.
 - **Community Amenities**: Residents enjoy access to a range of amenities including a swimming pool, clubhouse, and green areas.
 
-<!--begin:hero-->
+<!--begin:hero+marquee-->
 ## Homes in Condominio Montezuma
 
 ![Home in Condominio Montezuma](arq-mod-v-2.jpg)
-<!--end:hero-->
+<!--end:hero+marquee-->
 
 <!--begin:gallery+zoom-->
 ![Aruitecture in Montezuma](arq-mod-v-1.jpg)
