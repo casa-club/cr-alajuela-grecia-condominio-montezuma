@@ -4,6 +4,13 @@
 ![Ranchos](veg-1-v-5.jpg)
 <!--end:hero+home-->
 
+<!--begin:text+block+rush-->
+## Welcome to Condominio Montezuma,
+## a stunning residential development
+## located in the picturesque city of Grecia,
+## in the province of Alajuela, Costa Rica.
+<!--end:text+block+rush-->
+
 <!--begin:hero-->
 ## A Glimpse into Condominio Montezuma
 
