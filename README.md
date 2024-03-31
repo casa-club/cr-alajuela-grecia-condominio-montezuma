@@ -223,9 +223,9 @@ Become a part of Condominio Montezuma and start your new life in this beautiful 
 
 @[youtube](http://www.youtube.com/embed/JlGaE02D_3U)
 
-<!--begin:bezier+curve-->
+<!--begin:magnetic+divider-->
 ---
-<!--end:bezier+curve-->
+<!--end:magnetic+divider-->
 
 For more information, please visit our [website](https://condominio-montezuma.casa.club) or contact our sales office.
 <!--continue-with:README.es.md-->
