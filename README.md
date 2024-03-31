@@ -4,9 +4,9 @@
 ![Ranchos](veg-1-v-5.jpg)
 <!--begin:hero+home-->
 
-<!--begin:text-block+rush-->
+<!--begin:text+block+rush-->
 Welcome to Condominio Montezuma, a stunning residential development located in the picturesque city of Grecia, in the province of Alajuela, Costa Rica. Known for its pleasant climate, beautiful landscapes, and friendly community, Grecia is the perfect location for those seeking a peaceful lifestyle with easy access to modern amenities.
-<!--end:text-block+rush-->
+<!--end:text+block+rush-->
 
 <!--begin:gallery+index-->
 ![Homes in Condominio Montezuma](arq-mod-v-2.jpg)
