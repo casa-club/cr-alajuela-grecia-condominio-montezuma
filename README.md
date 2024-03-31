@@ -1,7 +1,7 @@
 <!--begin:hero+home-->
 # Montezuma
-![A Green Retreat](veg-1-v-1.jpg)
-![A Green Retreat](veg-1-v-5.jpg)
+![Casa Club](casa-2-h-1.jpg)
+![Ranchos](veg-1-v-5.jpg)
 <!--begin:hero+home-->
 
 <!--begin:text-block+rush-->
