@@ -1,4 +1,8 @@
-
+<!--begin:hero+home-->
+# Montezuma
+![Casa Club](casa-2-h-1.jpg)
+![Ranchos](veg-1-v-5.jpg)
+<!--end:hero+home-->
 
 <!--begin:hero-->
 ## A Glimpse into Condominio Montezuma
