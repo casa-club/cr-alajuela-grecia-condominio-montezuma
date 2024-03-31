@@ -5,7 +5,10 @@
 <!--begin:hero+home-->
 
 <!--begin:text+block+rush-->
-Welcome to Condominio Montezuma, a stunning residential development located in the picturesque city of Grecia, in the province of Alajuela, Costa Rica. Known for its pleasant climate, beautiful landscapes, and friendly community, Grecia is the perfect location for those seeking a peaceful lifestyle with easy access to modern amenities.
+## Welcome to Condominio Montezuma,
+## a stunning residential development
+## located in the picturesque city of Grecia,
+## in the province of Alajuela, Costa Rica.
 <!--end:text+block+rush-->
 
 <!--begin:gallery+index-->
@@ -27,6 +30,8 @@ Welcome to Condominio Montezuma, a stunning residential development located in t
 
 ![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2023/05/banner_condominio_montezuma.jpg)
 <!--end:hero-->
+
+Known for its pleasant climate, beautiful landscapes, and friendly community, Grecia is the perfect location for those seeking a peaceful lifestyle with easy access to modern amenities.
 
 Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The condominium features a variety of home styles, each designed to meet the highest standards of quality and aesthetic appeal. Whether you're looking for a cozy home or a more spacious family residence, Condominio Montezuma has something to suit your needs.
 
