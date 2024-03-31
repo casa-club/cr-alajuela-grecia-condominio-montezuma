@@ -1,11 +1,27 @@
-# Welcome to Condominio Montezuma, Grecia, Alajuela, Costa Rica
+<!--begin:hero+home-->
+# Montezuma
+![A Green Retreat](veg-1-v-1.jpg)
+![A Green Retreat](veg-1-v-5.jpg)
+<!--begin:hero+home-->
 
+<!--begin:text-block+rush-->
 Welcome to Condominio Montezuma, a stunning residential development located in the picturesque city of Grecia, in the province of Alajuela, Costa Rica. Known for its pleasant climate, beautiful landscapes, and friendly community, Grecia is the perfect location for those seeking a peaceful lifestyle with easy access to modern amenities.
+<!--end:text-block+rush-->
+
+<!--begin:gallery+index-->
+### A Green Retreat
+![ Homes in Condominio Montezuma](arq-mod-v-2.jpg)](# Homes in Condominio Montezuma)
+[![A Green Retreat](veg-1-camping-h-1.jpg)](#A Green Retreat)
+[![State-of-the-Art Gym](sport-swim-v-2.jpg)](#State-of-the-Art Gym)
+[![Tropical Jungle](veg-7-h-4.jpg)](#Tropical Jungle)
+<!--end:gallery+index-->
+
 <!--begin:hero-->
 ## A Glimpse into Condominio Montezuma
 
 ![Condominio Montezuma](https://fusioninmobiliariacr.com/wp-content/uploads/2023/05/banner_condominio_montezuma.jpg)
 <!--end:hero-->
+
 Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The condominium features a variety of home styles, each designed to meet the highest standards of quality and aesthetic appeal. Whether you're looking for a cozy home or a more spacious family residence, Condominio Montezuma has something to suit your needs.
 
 **Website**: [condominio-montezuma.casa.club](http://condominio-montezuma.casa.club)
