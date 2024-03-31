@@ -33,6 +33,11 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 ![Home in Condominio Montezuma](arq-mod-v-2.jpg)
 <!--end:hero+marquee-->
 
+### Example Listing: Spacious 3-Bedroom Home
+- **Price**: ₡ 109,500,000.00
+- **Size**: 153 square meters on a 207 square meter lot.
+- **Features**: This charming house offers a spacious living area, modern kitchen, and a tranquil backyard.
+
 <!--begin:gallery+zoom-->
 ![Aruitecture in Montezuma](arq-mod-v-1.jpg)
 ![Aruitecture in Montezuma](arq-mod-v-3.jpg)
@@ -41,11 +46,6 @@ Condominio Montezuma offers a blend of luxury, comfort, and natural beauty. The 
 ![Aruitecture in Montezuma](arq-mod-v-8.jpg)
 ![Aruitecture in Montezuma](arq-st-v-1.jpg)
 <!--end:gallery+zoom-->
-
-### Example Listing: Spacious 3-Bedroom Home
-- **Price**: ₡ 109,500,000.00
-- **Size**: 153 square meters on a 207 square meter lot.
-- **Features**: This charming house offers a spacious living area, modern kitchen, and a tranquil backyard.
 
 ## Living in Grecia, Alajuela
 
